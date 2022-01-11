@@ -1,0 +1,26 @@
+{
+  "name": "twitter-bookmarks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Twitter Bookmarks",
+  "author": "Vi-Anh Nguyen",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.4.0",
+    "gatsby-plugin-image": "^2.5.0",
+    "gatsby-plugin-sharp": "^4.5.0",
+    "gatsby-source-filesystem": "^4.5.0",
+    "gatsby-transformer-sharp": "^4.5.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
