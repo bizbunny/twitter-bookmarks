@@ -43,6 +43,18 @@ export default function ArtTipsPage(){
                   tweetLink="https://twitter.com/KatieDeSousa/status/1474554137551388673"
               />
             </Grid>
+            <Grid item xl={4} lg={4} md={6} sm={12}>
+              <Tweet
+                  backgroundImageURL={`url()`}
+                  srcImage=""
+                  title="Dec 14, 2021"
+                  subheader="@"
+                  imageLink="https://pbs.twimg.com/media/FGloZ1gX0AkV26n?format=jpg&name=900x900"
+                  imageAlt=""
+                  imageDescription=""
+                  tweetLink="https://twitter.com/EtheringtonBros/status/1470821656125972481"
+              />
+            </Grid>
           </Grid>
         </Container>
       </section>

@@ -44,6 +44,30 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/zephybite/status/1477752044723195907"
                         />
                     </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url()`}
+                            srcImage=""
+                            title="Dec 18, 2021"
+                            subheader="@"
+                            imageLink="https://pbs.twimg.com/media/FG5ba0OWUAUAR41?format=jpg&name=small"
+                            imageAlt=""
+                            imageDescription=""
+                            tweetLink="https://twitter.com/likelihood_art/status/1472214649412149252"
+                        />
+                    </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url()`}
+                            srcImage=""
+                            title="Dec 17, 2021"
+                            subheader="@"
+                            imageLink="https://pbs.twimg.com/media/FG1pJmpWQAkmv0C?format=jpg&name=medium"
+                            imageAlt=""
+                            imageDescription=""
+                            tweetLink="https://twitter.com/Tortupolar/status/1471950811655774211"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>    

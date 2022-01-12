@@ -18,7 +18,7 @@ const Layout = ({ pageTitle, children }) => {
       <section className="section header">
         <Container maxWidth="xl" className="Twitter">
           <Grid container spacing={5}>
-            <Grid item xl={12} lg={12} md={12} sm={12}>
+            <Grid item xl={12} lg={12} md={12} sm={6}>
               <title>{pageTitle}</title>
               <nav>
                 <ul className={navLinks}>
@@ -29,6 +29,8 @@ const Layout = ({ pageTitle, children }) => {
                     <li className={navLinkItem}><Link to="/arttips" className={navLinkText}>Art Tips</Link></li>
                     <li className={navLinkItem}><Link to="/funtweets" className={navLinkText}>Fun Tweets</Link></li>
                     <li className={navLinkItem}><Link to="/marvel" className={navLinkText}>Marvel Related</Link></li>
+                    <li className={navLinkItem}><Link to="/food" className={navLinkText}>Cute Food Pics</Link></li>
+                    <li className={navLinkItem}><Link to="/crafts" className={navLinkText}>Cute Crafts</Link></li>
                 </ul>
               </nav>
               <main>

@@ -55,6 +55,42 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/charlieehoney_/status/1472868851692052482"
                         />
                     </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1468875017970671620/idI-gl_j_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1468875017970671620/idI-gl_j_400x400.jpg"
+                            title="Dec 18, 2021"
+                            subheader="@TheBarnnOwl"
+                            imageLink="https://pbs.twimg.com/media/FG6WASXXoA8DEqY?format=jpg&name=large"
+                            imageAlt="acnh phone"
+                            imageDescription="my phone is animal crossing themed now and i love it Smiling 🥰"
+                            tweetLink="https://twitter.com/TheBarnnOwl/status/1472279067407929349"
+                        />
+                    </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url()`}
+                            srcImage=""
+                            title="Dec 6, 2021"
+                            subheader="@"
+                            imageLink="https://pbs.twimg.com/media/FF7tT4WWQAAYruD?format=jpg&name=large"
+                            imageAlt="acnh hospital"
+                            imageDescription=""
+                            tweetLink="https://twitter.com/animalcrossing/status/1467871466947592193"
+                        />
+                    </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url()`}
+                            srcImage=""
+                            title="Nov 14, 2021"
+                            subheader="@Sulkypup"
+                            imageLink="https://pbs.twimg.com/media/FEMDSeoXoAQsmNC?format=jpg&name=medium"
+                            imageAlt="acnh designs"
+                            imageDescription=""
+                            tweetLink="https://twitter.com/Sulkypup/status/1460014957366431750"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>
