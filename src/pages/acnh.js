@@ -1,0 +1,63 @@
+import * as React from "react"
+import "../components/styles.css";
+import Layout from '../components/layout'
+import Tweet from './Tweet'
+
+import {
+    Container,
+    Grid
+} from "@mui/material"
+
+// markup
+export default function AcnhPage(){
+  return (
+    <Layout pageTitle="ACNH">
+        <section className="section header">
+            <Container maxWidth="xl">
+                <Grid container spacing={5}>
+                    <Grid item xl={12} lg={12} md={12} sm={12}>
+                        <p>ACNH related stuff of interest</p>
+                    </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg"
+                            title="Nov 14, 2021"
+                            subheader="@Sulkypup"
+                            imageLink="https://pbs.twimg.com/media/FEMDQpJWUAY_fTB?format=jpg&name=medium"
+                            imageAlt="shirts and sweater designs"
+                            imageDescription="The store might be closed but that doesn't mean you can't pick something up!! Designs are available on Animal Crossing with ID MA-9358-2765-5984 ✨
+                            #ACNHDesigns #acnh Blossom(1/2)"
+                            tweetLink="https://twitter.com/Sulkypup/status/1460014951939067907"
+                        />
+                    </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1346836376407437312/_4G_Q0Rq_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1346836376407437312/_4G_Q0Rq_400x400.jpg"
+                            title="Dec 31, 2021"
+                            subheader="@MallowACNH"
+                            imageLink="https://pbs.twimg.com/media/FH8lyTiWYAIK-bl?format=jpg&name=large"
+                            imageAlt="Cool layout"
+                            imageDescription="Happy New Years Eve. Here's Bluebear's smol cafe. #acnh"
+                            tweetLink="https://twitter.com/MallowACNH/status/1476940752122953734"
+                        />
+                    </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1467590383118999552/30l5K5MI_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1467590383118999552/30l5K5MI_400x400.jpg"
+                            title="Dec 30, 2021"
+                            subheader="@charlieehoney_"
+                            imageLink="https://pbs.twimg.com/media/FHCuaeoWQAAm64h?format=jpg&name=900x900"
+                            imageAlt="Cool design"
+                            imageDescription="it took soo long to post these (sowwy🥺), but here are the finished designs!!✨🐸 #fwog #ACNHDesign"
+                            tweetLink="https://twitter.com/charlieehoney_/status/1472868851692052482"
+                        />
+                    </Grid>
+                </Grid>
+            </Container>
+        </section>
+    </Layout>
+  );
+}
