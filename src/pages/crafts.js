@@ -9,9 +9,9 @@ import {
 } from "@mui/material"
 
 // markup
-export default function FoodPage(){
+export default function CraftsPage(){
   return (
-    <Layout pageTitle="Cute Food Pictures">
+    <Layout pageTitle="Cute Crafts Pictures">
         <section className="section header">
             <Container maxWidth="xl">
                 <Grid container spacing={5}>

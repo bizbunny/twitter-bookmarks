@@ -12,6 +12,7 @@ import {
     Container,
     Grid
 } from "@mui/material"
+
 const Layout = ({ pageTitle, children }) => {
   return (
     <div className={container}>
@@ -31,6 +32,8 @@ const Layout = ({ pageTitle, children }) => {
                     <li className={navLinkItem}><Link to="/marvel" className={navLinkText}>Marvel Related</Link></li>
                     <li className={navLinkItem}><Link to="/food" className={navLinkText}>Cute Food Pics</Link></li>
                     <li className={navLinkItem}><Link to="/crafts" className={navLinkText}>Cute Crafts</Link></li>
+                    <li className={navLinkItem}><Link to="/codeinfo" className={navLinkText}>Code Info</Link></li>
+                    <li className={navLinkItem}><Link to="/cooking" className={navLinkText}>Cooking</Link></li>
                 </ul>
               </nav>
               <main>
