@@ -46,13 +46,13 @@ export default function ArtsPage(){
                     </Grid>
                     <Grid item xl={4} lg={4} md={6} sm={12}>
                         <Tweet
-                            backgroundImageURL={`url()`}
-                            srcImage=""
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1366547812285100039/SF9OcQ1U_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1366547812285100039/SF9OcQ1U_400x400.jpg"
                             title="Dec 18, 2021"
-                            subheader="@"
+                            subheader="@likelihood_art"
                             imageLink="https://pbs.twimg.com/media/FG5ba0OWUAUAR41?format=jpg&name=small"
-                            imageAlt=""
-                            imageDescription=""
+                            imageAlt="Amazing piece"
+                            imageDescription="Aj ◡̈"
                             tweetLink="https://twitter.com/likelihood_art/status/1472214649412149252"
                         />
                     </Grid>
