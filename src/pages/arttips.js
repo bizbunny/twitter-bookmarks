@@ -45,13 +45,14 @@ export default function ArtTipsPage(){
             </Grid>
             <Grid item xl={4} lg={4} md={6} sm={12}>
               <Tweet
-                  backgroundImageURL={`url()`}
-                  srcImage=""
+                  backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1759638070/Picture_4_400x400.png)`}
+                  srcImage="https://pbs.twimg.com/profile_images/1759638070/Picture_4_400x400.png"
                   title="Dec 14, 2021"
-                  subheader="@"
+                  subheader="@EtheringtonBros"
                   imageLink="https://pbs.twimg.com/media/FGloZ1gX0AkV26n?format=jpg&name=900x900"
-                  imageAlt=""
-                  imageDescription=""
+                  imageAlt="interior"
+                  imageDescription="Here’s #howtoTHINKwhenyouDRAW INTERIOR BASICS Part B:http://theetheringtonbrothers.blogspot.com/2021/12/how-to-think-when-you-draw-interior.html
+                  #conceptart #gamedev #animationdev #gameart #tutorial #indiegame #comicart #illustration #manga #anime #comics"
                   tweetLink="https://twitter.com/EtheringtonBros/status/1470821656125972481"
               />
             </Grid>

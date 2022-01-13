@@ -17,7 +17,7 @@
 }
 .nav-link-text {
   color: rgb(250, 127, 174);
-  text-decoration: none;
+  text-decoration-line: none;
   text-transform: capitalize;
 }
 

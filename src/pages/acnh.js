@@ -69,25 +69,26 @@ export default function AcnhPage(){
                     </Grid>
                     <Grid item xl={4} lg={4} md={6} sm={12}>
                         <Tweet
-                            backgroundImageURL={`url()`}
-                            srcImage=""
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1481028496960884737/0TV2hqEf_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1481028496960884737/0TV2hqEf_400x400.jpg"
                             title="Dec 6, 2021"
-                            subheader="@"
+                            subheader="@animalcrossing"
                             imageLink="https://pbs.twimg.com/media/FF7tT4WWQAAYruD?format=jpg&name=large"
                             imageAlt="acnh hospital"
-                            imageDescription=""
+                            imageDescription="[Lottie]
+                            Hi, everyone! Today I thought I'd introduce one of the new facilities developed by Paradise Planning—our hospital! Now that our vacation-home business is booming, we wanted a way to help keep everyone safe and healthy. I hope no one needs it, but it's there if they do!"
                             tweetLink="https://twitter.com/animalcrossing/status/1467871466947592193"
                         />
                     </Grid>
                     <Grid item xl={4} lg={4} md={6} sm={12}>
                         <Tweet
-                            backgroundImageURL={`url()`}
-                            srcImage=""
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg"
                             title="Nov 14, 2021"
                             subheader="@Sulkypup"
                             imageLink="https://pbs.twimg.com/media/FEMDSeoXoAQsmNC?format=jpg&name=medium"
                             imageAlt="acnh designs"
-                            imageDescription=""
+                            imageDescription="Some more goods!!🌼 (2/2)"
                             tweetLink="https://twitter.com/Sulkypup/status/1460014957366431750"
                         />
                     </Grid>

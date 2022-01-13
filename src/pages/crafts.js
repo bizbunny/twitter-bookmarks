@@ -20,13 +20,13 @@ export default function CraftsPage(){
                     </Grid>
                     <Grid item xl={4} lg={4} md={6} sm={12}>
                         <Tweet
-                            backgroundImageURL={`url()`}
-                            srcImage=""
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1475916755948032001/oBfEksNJ_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1475916755948032001/oBfEksNJ_400x400.jpg"
                             title="Dec 4, 2021"
-                            subheader="@"
+                            subheader="@takoyanii"
                             imageLink="https://pbs.twimg.com/media/FFxcrLvVIAc3xrv?format=jpg&name=medium"
                             imageAlt="Cute Crafts"
-                            imageDescription=""
+                            imageDescription="These flower crochet bouquets are a need not a want. 🥺🌻🌷✨"
                             tweetLink="https://twitter.com/takoyanii/status/1467149482458750976"
                         />
                     </Grid> 
