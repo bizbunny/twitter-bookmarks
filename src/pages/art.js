@@ -58,14 +58,43 @@ export default function ArtsPage(){
                     </Grid>
                     <Grid item xl={4} lg={4} md={6} sm={12}>
                         <Tweet
-                            backgroundImageURL={`url()`}
-                            srcImage=""
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1279820584831115266/-j5U9pui_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1279820584831115266/-j5U9pui_400x400.jpg"
                             title="Dec 17, 2021"
-                            subheader="@"
+                            subheader="@Tortupolar"
                             imageLink="https://pbs.twimg.com/media/FG1pJmpWQAkmv0C?format=jpg&name=medium"
-                            imageAlt=""
-                            imageDescription=""
+                            imageAlt="DTIYS"
+                            imageDescription="draw the cuterest bears and have the cuterest art so i couldn't help myself to try it! 
+                            I had a lot of fun  so i hope you enjoy this bear! Bear face
+                            #yomi1year"
                             tweetLink="https://twitter.com/Tortupolar/status/1471950811655774211"
+                        />
+                    </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1335807482292174853/o5A3A7zd_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1335807482292174853/o5A3A7zd_400x400.jpg"
+                            title="Jan 11, 2022"
+                            subheader="@magicalnarwhal"
+                            imageLink="https://pbs.twimg.com/media/FI3dOxvVgAMnQNe?format=jpg&name=4096x4096"
+                            imageAlt="Portfolio"
+                            imageDescription="Heya #PortfolioDay! I'm Sarah, I like to make magical artwork for animated films! You can find my work at http://sarahkieley.com
+                            or http://instagram.com/magicalnarwhal
+                            :o) Love seeing everyone's work!"
+                            tweetLink="https://twitter.com/magicalnarwhal/status/1481083926508552193"
+                        />
+                    </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1452488455489871878/QnZMWlaL_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1452488455489871878/QnZMWlaL_400x400.jpg"
+                            title="Jan 11, 2022"
+                            subheader="@_Cheumi"
+                            imageLink="https://pbs.twimg.com/media/FI8j4kUUYAMPg92?format=jpg&name=large"
+                            imageAlt="Portfolio"
+                            imageDescription="Come by and get some flowers 🌷✨
+                            #art #illustration"
+                            tweetLink="https://twitter.com/_Cheumi/status/1481442259669114882"
                         />
                     </Grid>
                 </Grid>

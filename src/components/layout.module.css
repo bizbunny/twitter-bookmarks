@@ -16,6 +16,8 @@
   padding-right: 2rem;
 }
 .nav-link-text {
-  color: black;
+  color: rgb(250, 127, 174);
+  text-decoration: none;
+  text-transform: capitalize;
 }
 

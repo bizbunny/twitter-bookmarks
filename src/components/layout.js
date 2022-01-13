@@ -9,6 +9,7 @@ import {
   } from './layout.module.css'
 
 import {
+    Button,
     Container,
     Grid
 } from "@mui/material"
@@ -23,17 +24,17 @@ const Layout = ({ pageTitle, children }) => {
               <title>{pageTitle}</title>
               <nav>
                 <ul className={navLinks}>
-                    <li className={navLinkItem}><Link to="/" className={navLinkText}>Home</Link></li>
-                    <li className={navLinkItem}><Link to="/products" className={navLinkText}>Products I like</Link></li>
-                    <li className={navLinkItem}><Link to="/art" className={navLinkText}>Cool Art</Link></li>
-                    <li className={navLinkItem}><Link to="/acnh" className={navLinkText}>ACNH Related</Link></li>
-                    <li className={navLinkItem}><Link to="/arttips" className={navLinkText}>Art Tips</Link></li>
-                    <li className={navLinkItem}><Link to="/funtweets" className={navLinkText}>Fun Tweets</Link></li>
-                    <li className={navLinkItem}><Link to="/marvel" className={navLinkText}>Marvel Related</Link></li>
-                    <li className={navLinkItem}><Link to="/food" className={navLinkText}>Cute Food Pics</Link></li>
-                    <li className={navLinkItem}><Link to="/crafts" className={navLinkText}>Cute Crafts</Link></li>
-                    <li className={navLinkItem}><Link to="/codeinfo" className={navLinkText}>Code Info</Link></li>
-                    <li className={navLinkItem}><Link to="/cooking" className={navLinkText}>Cooking</Link></li>
+                    <li className={navLinkItem}><Button variant="text"><Link to="/" className={navLinkText}>Home</Link></Button></li>
+                    <li className={navLinkItem}><Button variant="text"><Link to="/products" className={navLinkText}>Products I like</Link></Button></li>
+                    <li className={navLinkItem}><Button variant="text"><Link to="/art" className={navLinkText}>Cool Art</Link></Button></li>
+                    <li className={navLinkItem}><Button variant="text"><Link to="/acnh" className={navLinkText}>ACNH Related</Link></Button></li>
+                    <li className={navLinkItem}><Button variant="text"><Link to="/arttips" className={navLinkText}>Art Tips</Link></Button></li>
+                    <li className={navLinkItem}><Button variant="text"><Link to="/funtweets" className={navLinkText}>Fun Tweets</Link></Button></li>
+                    <li className={navLinkItem}><Button variant="text"><Link to="/marvel" className={navLinkText}>Marvel Related</Link></Button></li>
+                    <li className={navLinkItem}><Button variant="text"><Link to="/food" className={navLinkText}>Cute Food Pics</Link></Button></li>
+                    <li className={navLinkItem}><Button variant="text"><Link to="/crafts" className={navLinkText}>Cute Crafts</Link></Button></li>
+                    <li className={navLinkItem}><Button variant="text"><Link to="/codeinfo" className={navLinkText}>Code Info</Link></Button></li>
+                    <li className={navLinkItem}><Button variant="text"><Link to="/cooking" className={navLinkText}>Cooking</Link></Button></li>
                 </ul>
               </nav>
               <main>

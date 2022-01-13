@@ -18,6 +18,10 @@ import ShareIcon from "@mui/icons-material/Share";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import MoreVertIcon from "@mui/icons-material/MoreVert";
 
+import {
+  Button
+} from "@mui/material"
+
 const ExpandMore = styled((props) => {
   const { expand, ...other } = props;
   return <IconButton {...other} />;
@@ -89,7 +93,7 @@ export default function Tweet({backgroundImageURL, srcImage, title, subheader, i
       <Collapse in={expanded} timeout="auto" unmountOnExit>
         <CardContent>
           <Typography paragraph>
-            <Link to={tweetLink}>Link to Tweet</Link>
+            <Button variant="text"><Link to={tweetLink}>Link to Tweet</Link></Button>
           </Typography>
         </CardContent>
       </Collapse>

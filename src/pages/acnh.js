@@ -91,6 +91,18 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/Sulkypup/status/1460014957366431750"
                         />
                     </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1455531777909563408/GWLdqwOj_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1455531777909563408/GWLdqwOj_400x400.jpg"
+                            title="Jan 12, 2022"
+                            subheader="@TiffyCrossing"
+                            imageLink="https://pbs.twimg.com/media/FI6dvIDXIAkP0N3?format=jpg&name=900x900"
+                            imageAlt="cool layout"
+                            imageDescription="Made Bea a cute garden home Smiling 🥰 #ACNHDesign #acnhhhp #ACNHhappyhomeparadise"
+                            tweetLink="https://twitter.com/TiffyCrossing/status/1481294764867788804"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>
