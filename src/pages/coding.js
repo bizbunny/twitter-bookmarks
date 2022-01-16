@@ -18,7 +18,7 @@ export default function CodePage(){
                     <Grid item xl={12} lg={12} md={12} sm={12}>
                         <p>Tools to learn from and stuff to use as reference when coding.</p>
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1476905990855475205/VskPkdVv_400x400.png)`}
                             srcImage="https://pbs.twimg.com/profile_images/1476905990855475205/VskPkdVv_400x400.png"
@@ -32,7 +32,7 @@ export default function CodePage(){
                             tweetLink="https://twitter.com/VittoStack/status/1459419925018251266"
                         />
                     </Grid> 
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1436372553027788801/-omdgx8X_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1436372553027788801/-omdgx8X_400x400.jpg"

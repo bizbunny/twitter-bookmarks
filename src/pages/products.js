@@ -18,7 +18,7 @@ export default function ProductsPage(){
               <Grid item xl={12} lg={12} md={12} sm={12}>
                 <p>Products and product ideas from various artists and game makers that I like (and want) Hehehe</p>
               </Grid>
-              <Grid item xl={4} lg={4} md={6} sm={12}>
+              <Grid item xl={3} lg={4} md={6} sm={12}>
                 <Tweet
                     backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1438559347307655176/KfYo897x_400x400.jpg)`}
                     srcImage="https://pbs.twimg.com/profile_images/1438559347307655176/KfYo897x_400x400.jpg"
@@ -30,7 +30,7 @@ export default function ProductsPage(){
                     tweetLink="https://twitter.com/lauraillustrate/status/1480594717394063364"
                 />
               </Grid>
-              <Grid item xl={4} lg={4} md={6} sm={12}>
+              <Grid item xl={3} lg={4} md={6} sm={12}>
                 <Tweet
                   backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1392992729680986114/7is-QPg9_400x400.jpg)`}
                   srcImage="https://pbs.twimg.com/profile_images/1392992729680986114/7is-QPg9_400x400.jpg"
@@ -42,7 +42,7 @@ export default function ProductsPage(){
                   tweetLink="https://twitter.com/arcasian/status/1480423922461986817"
                 />
               </Grid>
-              <Grid item xl={4} lg={4} md={6} sm={12}>
+              <Grid item xl={3} lg={4} md={6} sm={12}>
                 <Tweet
                   backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1473810315242766340/FrCHb1W7_400x400.jpg)`}
                   srcImage="https://pbs.twimg.com/profile_images/1473810315242766340/FrCHb1W7_400x400.jpg"
@@ -65,7 +65,7 @@ export default function ProductsPage(){
                   tweetLink="https://twitter.com/califlair/status/1319779018590187520"
                 />
               </Grid>
-              <Grid item xl={4} lg={4} md={6} sm={12}>
+              <Grid item xl={3} lg={4} md={6} sm={12}>
                 <Tweet
                   backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg)`}
                   srcImage="https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg"
@@ -78,7 +78,7 @@ export default function ProductsPage(){
                   tweetLink="https://twitter.com/Sulkypup/status/1478845160872157185"
                 />
               </Grid>
-              <Grid item xl={4} lg={4} md={6} sm={12}>
+              <Grid item xl={3} lg={4} md={6} sm={12}>
                 <Tweet
                   backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1422625379961884673/BktC6_2i_400x400.jpg)`}
                   srcImage="https://pbs.twimg.com/profile_images/1422625379961884673/BktC6_2i_400x400.jpg"
@@ -90,7 +90,7 @@ export default function ProductsPage(){
                   tweetLink="https://twitter.com/ohmonah/status/1455607067322957825"
                 />
               </Grid>
-              <Grid item xl={4} lg={4} md={6} sm={12}>
+              <Grid item xl={3} lg={4} md={6} sm={12}>
                 <Tweet
                   backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1422625379961884673/BktC6_2i_400x400.jpg)`}
                   srcImage="https://pbs.twimg.com/profile_images/1422625379961884673/BktC6_2i_400x400.jpg"

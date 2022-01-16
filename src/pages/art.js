@@ -19,7 +19,7 @@ export default function ArtsPage(){
                     <Grid item xl={12} lg={12} md={12} sm={12}>
                         <p>Art that I like.</p>
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1478443662153560064/EZzij2RC_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1478443662153560064/EZzij2RC_400x400.jpg"
@@ -31,7 +31,7 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/toorurii/status/1479499217664159755"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1477090116220776449/xOo167Qb_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1477090116220776449/xOo167Qb_400x400.jpg"
@@ -44,7 +44,7 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/zephybite/status/1477752044723195907"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1366547812285100039/SF9OcQ1U_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1366547812285100039/SF9OcQ1U_400x400.jpg"
@@ -56,7 +56,7 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/likelihood_art/status/1472214649412149252"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1279820584831115266/-j5U9pui_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1279820584831115266/-j5U9pui_400x400.jpg"
@@ -70,7 +70,7 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/Tortupolar/status/1471950811655774211"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1335807482292174853/o5A3A7zd_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1335807482292174853/o5A3A7zd_400x400.jpg"
@@ -84,7 +84,7 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/magicalnarwhal/status/1481083926508552193"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1452488455489871878/QnZMWlaL_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1452488455489871878/QnZMWlaL_400x400.jpg"
@@ -97,7 +97,7 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/_Cheumi/status/1481442259669114882"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1392992729680986114/7is-QPg9_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1392992729680986114/7is-QPg9_400x400.jpg"
@@ -109,7 +109,7 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/arcasian/status/1482094719094206469"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1249995341342150661/_zWzUB___400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1249995341342150661/_zWzUB___400x400.jpg"
@@ -119,6 +119,18 @@ export default function ArtsPage(){
                             imageAlt="Celestial Guardians"
                             imageDescription="My Celestial Guardians series is complete 😌✨"
                             tweetLink="https://twitter.com/Sibylline_M/status/1465755882227126274"
+                        />
+                    </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1477090116220776449/xOo167Qb_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1477090116220776449/xOo167Qb_400x400.jpg"
+                            title="Oct 26, 2018"
+                            subheader="@zephybite"
+                            imageLink="https://pbs.twimg.com/media/Dqc_GVZX0AAZT2S?format=jpg&name=4096x4096"
+                            imageAlt="Doodle"
+                            imageDescription="trying to get back into drawing so i doodled my cute friends 🤧"
+                            tweetLink="https://twitter.com/zephybite/status/1477752044723195907"
                         />
                     </Grid>
                 </Grid>

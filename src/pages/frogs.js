@@ -18,7 +18,7 @@ export default function FrogsPage(){
                     <Grid item xl={12} lg={12} md={12} sm={12}>
                         <p>Frog related tweets. Could be about anything, as long as there's frogs in it.</p>
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1422625379961884673/BktC6_2i_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1422625379961884673/BktC6_2i_400x400.jpg"
@@ -33,7 +33,7 @@ export default function FrogsPage(){
                             tweetLink="https://twitter.com/ohmonah/status/1458570496140890118"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1467590383118999552/30l5K5MI_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1467590383118999552/30l5K5MI_400x400.jpg"
@@ -45,7 +45,7 @@ export default function FrogsPage(){
                             tweetLink="https://twitter.com/charlieehoney_/status/1467052472774676487"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1467590383118999552/30l5K5MI_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1467590383118999552/30l5K5MI_400x400.jpg"

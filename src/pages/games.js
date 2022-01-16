@@ -18,7 +18,7 @@ export default function GamesPage(){
                     <Grid item xl={12} lg={12} md={12} sm={12}>
                         <p>Games I want to play</p>
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1121768172883980290/dFznjT7M_400x400.png)`}
                             srcImage="https://pbs.twimg.com/profile_images/1121768172883980290/dFznjT7M_400x400.png"
@@ -37,7 +37,7 @@ export default function GamesPage(){
                             tweetLink="https://twitter.com/_wholesomegames/status/1446112840763392003"
                         />
                     </Grid> 
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1121768172883980290/dFznjT7M_400x400.png)`}
                             srcImage="https://pbs.twimg.com/profile_images/1121768172883980290/dFznjT7M_400x400.png"

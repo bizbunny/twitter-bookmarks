@@ -18,7 +18,7 @@ export default function MarvelPage(){
                     <Grid item xl={12} lg={12} md={12} sm={12}>
                         <p>Marvel related stuff of interest</p>
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/590150838632390656/lw77czLY_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/590150838632390656/lw77czLY_400x400.jpg"
@@ -30,7 +30,7 @@ export default function MarvelPage(){
                             tweetLink="https://twitter.com/peachmomoko60/status/1474601780004933632"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1476246601383481352/MFzLzGLK_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1476246601383481352/MFzLzGLK_400x400.jpg"
@@ -42,7 +42,7 @@ export default function MarvelPage(){
                             tweetLink="https://twitter.com/spideypooldiary/status/1474377643067904003"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1476660371821928449/ZoNKnloK_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1476660371821928449/ZoNKnloK_400x400.jpg"

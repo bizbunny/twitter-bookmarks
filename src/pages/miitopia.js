@@ -18,7 +18,7 @@ export default function MiitopiaPage(){
                     <Grid item xl={12} lg={12} md={12} sm={12}>
                         <p>Miitopia related tweets I enjoy. Includes some fun Mii designs and other related content.</p>
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1435440908766355461/o92acG6Z_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1435440908766355461/o92acG6Z_400x400.jpg"
@@ -36,7 +36,7 @@ export default function MiitopiaPage(){
                             tweetLink="https://twitter.com/peachbunnii/status/1400528819371483139"
                         />
                     </Grid> 
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1477664861975097345/WiakLE9f_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1477664861975097345/WiakLE9f_400x400.jpg"

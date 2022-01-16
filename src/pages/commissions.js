@@ -18,7 +18,7 @@ export default function CommissionsPage(){
                     <Grid item xl={12} lg={12} md={12} sm={12}>
                         <p>Commissions sheets to use as reference so I can make a proper commission sheet of my own</p>
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1450269386980220931/ERnLi1Mb_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1450269386980220931/ERnLi1Mb_400x400.jpg"
@@ -38,7 +38,7 @@ export default function CommissionsPage(){
                             tweetLink="https://twitter.com/ameobas/status/1394776635291815937"
                         />
                     </Grid> 
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1213319274007277569/CXd6neus_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1213319274007277569/CXd6neus_400x400.jpg"

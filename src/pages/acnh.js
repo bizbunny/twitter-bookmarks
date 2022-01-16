@@ -18,7 +18,7 @@ export default function AcnhPage(){
                     <Grid item xl={12} lg={12} md={12} sm={12}>
                         <p>ACNH related stuff of interest</p>
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg"
@@ -31,7 +31,7 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/Sulkypup/status/1460014951939067907"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg"
@@ -43,7 +43,7 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/Sulkypup/status/1460014957366431750"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1346836376407437312/_4G_Q0Rq_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1346836376407437312/_4G_Q0Rq_400x400.jpg"
@@ -55,7 +55,7 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/MallowACNH/status/1476940752122953734"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1468875017970671620/idI-gl_j_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1468875017970671620/idI-gl_j_400x400.jpg"
@@ -67,7 +67,7 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/TheBarnnOwl/status/1472279067407929349"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1481028496960884737/0TV2hqEf_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1481028496960884737/0TV2hqEf_400x400.jpg"
@@ -80,7 +80,7 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/animalcrossing/status/1467871466947592193"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1455531777909563408/GWLdqwOj_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1455531777909563408/GWLdqwOj_400x400.jpg"
@@ -92,7 +92,7 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/TiffyCrossing/status/1481294764867788804"
                         />
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1450922546686218242/Q3-NTwn3_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1450922546686218242/Q3-NTwn3_400x400.jpg"
@@ -104,6 +104,18 @@ export default function AcnhPage(){
                             #AnimalCrossing #Nintendo
                             #NintendoSwitch"
                             tweetLink="https://twitter.com/accastaway/status/1481560269772009483"
+                        />
+                    </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1393949167471497219/Hdkbxy7v_400x400.png)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1393949167471497219/Hdkbxy7v_400x400.png"
+                            title="Nov 28, 2021"
+                            subheader="@Clairetonic"
+                            imageLink="https://pbs.twimg.com/media/FFTr1gsXsAU2LvD?format=jpg&name=large"
+                            imageAlt="acnh vacation home"
+                            imageDescription="obsessed with making indoor/outdoor looks with wood & stone rugs on top of grass floors #ACNH #AnimalCrossing"
+                            tweetLink="https://twitter.com/Clairetonic/status/1465055676707786765"
                         />
                     </Grid>
                 </Grid>

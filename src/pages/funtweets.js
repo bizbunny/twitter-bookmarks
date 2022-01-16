@@ -18,7 +18,7 @@ export default function FunTweetsPage(){
                     <Grid item xl={12} lg={12} md={12} sm={12}>
                         <p>Tweets I find fun</p>
                     </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/975127233260961792/sxBWaJTF_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/975127233260961792/sxBWaJTF_400x400.jpg"
@@ -35,7 +35,7 @@ export default function FunTweetsPage(){
                             tweetLink="https://twitter.com/powerlanguish/status/1463625030261264385"
                         />
                     </Grid> 
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1445321080575512576/LaYVL9Ym_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1445321080575512576/LaYVL9Ym_400x400.jpg"
