@@ -4,3 +4,6 @@
   .tweetprofile {
     width: 100%;
   }
+button, .tweetCard{
+  background-color: rgb(250, 127, 174);;
+}

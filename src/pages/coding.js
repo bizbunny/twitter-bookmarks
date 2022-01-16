@@ -16,7 +16,7 @@ export default function CodePage(){
             <Container maxWidth="xl">
                 <Grid container spacing={5}>
                     <Grid item xl={12} lg={12} md={12} sm={12}>
-                        <p>Tools and references for coding</p>
+                        <p>Tools to learn from and stuff to use as reference when coding.</p>
                     </Grid>
                     <Grid item xl={4} lg={4} md={6} sm={12}>
                         <Tweet
@@ -30,6 +30,20 @@ export default function CodePage(){
 
                             A cheatsheet Down pointing 👇"
                             tweetLink="https://twitter.com/VittoStack/status/1459419925018251266"
+                        />
+                    </Grid> 
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1436372553027788801/-omdgx8X_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1436372553027788801/-omdgx8X_400x400.jpg"
+                            title="Aug 19, 2021"
+                            subheader="@@UbahTheBuilder"
+                            imageLink="https://pbs.twimg.com/media/E9KGqtlUYBUmTDv?format=png&name=900x900"
+                            imageAlt="JS"
+                            imageDescription="7 ES6 features all JavaScript Programmers should learn to use.
+
+                            A visual thread 🧵"
+                            tweetLink="https://twitter.com/UbahTheBuilder/status/1428356548615491595"
                         />
                     </Grid> 
                 </Grid>

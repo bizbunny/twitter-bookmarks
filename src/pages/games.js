@@ -37,6 +37,18 @@ export default function GamesPage(){
                             tweetLink="https://twitter.com/_wholesomegames/status/1446112840763392003"
                         />
                     </Grid> 
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1121768172883980290/dFznjT7M_400x400.png)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1121768172883980290/dFznjT7M_400x400.png"
+                            title="Sep 29, 2021"
+                            subheader="@_wholesomegames"
+                            imageLink="https://i.ytimg.com/vi/StRsJDxc5Vs/maxresdefault.jpg"
+                            imageAlt="PostBird"
+                            imageDescription="Hop on your bike and deliver mail in Postbird in Provence! Meet the lovely and quirky people of Montélimace and bring this charming village back to life. Set amongst the lavender fields and fanned by the sea breeze, take a real breath of provençal air."
+                            tweetLink="https://twitter.com/_wholesomegames/status/1443207240392089600"
+                        />
+                    </Grid> 
                 </Grid>
             </Container>
         </section>

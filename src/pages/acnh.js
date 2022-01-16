@@ -33,6 +33,18 @@ export default function AcnhPage(){
                     </Grid>
                     <Grid item xl={4} lg={4} md={6} sm={12}>
                         <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg"
+                            title="Nov 14, 2021"
+                            subheader="@Sulkypup"
+                            imageLink="https://pbs.twimg.com/media/FEMDSeoXoAQsmNC?format=jpg&name=medium"
+                            imageAlt="acnh designs"
+                            imageDescription="Some more goods!!🌼 (2/2)"
+                            tweetLink="https://twitter.com/Sulkypup/status/1460014957366431750"
+                        />
+                    </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1346836376407437312/_4G_Q0Rq_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1346836376407437312/_4G_Q0Rq_400x400.jpg"
                             title="Dec 31, 2021"
@@ -41,18 +53,6 @@ export default function AcnhPage(){
                             imageAlt="Cool layout"
                             imageDescription="Happy New Years Eve. Here's Bluebear's smol cafe. #acnh"
                             tweetLink="https://twitter.com/MallowACNH/status/1476940752122953734"
-                        />
-                    </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
-                        <Tweet
-                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1467590383118999552/30l5K5MI_400x400.jpg)`}
-                            srcImage="https://pbs.twimg.com/profile_images/1467590383118999552/30l5K5MI_400x400.jpg"
-                            title="Dec 30, 2021"
-                            subheader="@charlieehoney_"
-                            imageLink="https://pbs.twimg.com/media/FHCuaeoWQAAm64h?format=jpg&name=900x900"
-                            imageAlt="Cool design"
-                            imageDescription="it took soo long to post these (sowwy🥺), but here are the finished designs!!✨🐸 #fwog #ACNHDesign"
-                            tweetLink="https://twitter.com/charlieehoney_/status/1472868851692052482"
                         />
                     </Grid>
                     <Grid item xl={4} lg={4} md={6} sm={12}>
@@ -82,18 +82,6 @@ export default function AcnhPage(){
                     </Grid>
                     <Grid item xl={4} lg={4} md={6} sm={12}>
                         <Tweet
-                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg)`}
-                            srcImage="https://pbs.twimg.com/profile_images/1416541365689802753/9t3rKH0J_400x400.jpg"
-                            title="Nov 14, 2021"
-                            subheader="@Sulkypup"
-                            imageLink="https://pbs.twimg.com/media/FEMDSeoXoAQsmNC?format=jpg&name=medium"
-                            imageAlt="acnh designs"
-                            imageDescription="Some more goods!!🌼 (2/2)"
-                            tweetLink="https://twitter.com/Sulkypup/status/1460014957366431750"
-                        />
-                    </Grid>
-                    <Grid item xl={4} lg={4} md={6} sm={12}>
-                        <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1455531777909563408/GWLdqwOj_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1455531777909563408/GWLdqwOj_400x400.jpg"
                             title="Jan 12, 2022"
@@ -102,6 +90,20 @@ export default function AcnhPage(){
                             imageAlt="cool layout"
                             imageDescription="Made Bea a cute garden home Smiling 🥰 #ACNHDesign #acnhhhp #ACNHhappyhomeparadise"
                             tweetLink="https://twitter.com/TiffyCrossing/status/1481294764867788804"
+                        />
+                    </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1450922546686218242/Q3-NTwn3_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1450922546686218242/Q3-NTwn3_400x400.jpg"
+                            title="Jan 13, 2022"
+                            subheader="@accastaway"
+                            imageLink="https://pbs.twimg.com/media/FI-PNqYXEAAIzva?format=jpg&name=medium"
+                            imageAlt="acnh tips"
+                            imageDescription="Ill leave this here, little help to move out Villagers
+                            #AnimalCrossing #Nintendo
+                            #NintendoSwitch"
+                            tweetLink="https://twitter.com/accastaway/status/1481560269772009483"
                         />
                     </Grid>
                 </Grid>

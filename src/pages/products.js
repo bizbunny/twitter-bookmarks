@@ -16,7 +16,7 @@ export default function ProductsPage(){
           <Container maxwidth="xl">
             <Grid container spacing={5}>
               <Grid item xl={12} lg={12} md={12} sm={12}>
-                <p>Products from various artists and game makers that I like (and want) Hehehe</p>
+                <p>Products and product ideas from various artists and game makers that I like (and want) Hehehe</p>
               </Grid>
               <Grid item xl={4} lg={4} md={6} sm={12}>
                 <Tweet
@@ -88,6 +88,20 @@ export default function ProductsPage(){
                   imageAlt="cool bag"
                   imageDescription="I have heard you. and new samples are in >:)"
                   tweetLink="https://twitter.com/ohmonah/status/1455607067322957825"
+                />
+              </Grid>
+              <Grid item xl={4} lg={4} md={6} sm={12}>
+                <Tweet
+                  backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1422625379961884673/BktC6_2i_400x400.jpg)`}
+                  srcImage="https://pbs.twimg.com/profile_images/1422625379961884673/BktC6_2i_400x400.jpg"
+                  title="Jun 8, 2021"
+                  subheader="@ohmonah"
+                  imageLink="https://pbs.twimg.com/media/E3ZF15tXIAQcoRb?format=jpg&name=medium"
+                  imageAlt="cute pin"
+                  imageDescription="💀🐰🥛SPOILED MILK ENAMEL PIN💀🐰🥛
+
+                  Spoiled milk bunny pin to match our spoiled milk sweater!~"
+                  tweetLink="https://twitter.com/ohmonah/status/1402385399155245056"
                 />
               </Grid>
             </Grid>

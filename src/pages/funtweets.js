@@ -35,6 +35,18 @@ export default function FunTweetsPage(){
                             tweetLink="https://twitter.com/powerlanguish/status/1463625030261264385"
                         />
                     </Grid> 
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1445321080575512576/LaYVL9Ym_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1445321080575512576/LaYVL9Ym_400x400.jpg"
+                            title="Oct 25, 2021"
+                            subheader="@MarrtjeME"
+                            imageLink="https://pbs.twimg.com/media/FCikuiCX0AQl4Bj?format=jpg&name=large"
+                            imageAlt="Wireshark"
+                            imageDescription="Expert class Wireshark for a very special audience today"
+                            tweetLink="https://twitter.com/MaartjeME/status/1452592022515326980"
+                        />
+                    </Grid> 
                 </Grid>
             </Container>
         </section>

@@ -41,7 +41,7 @@ export default function Tweet({backgroundImageURL, srcImage, title, subheader, i
   };
 
   return (
-    <Card sx={{ maxWidth: 345 }}>
+    <Card sx={{ maxWidth: 345 }} className="tweetCard">
       <CardHeader
         avatar={
           <Avatar

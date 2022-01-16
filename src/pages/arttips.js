@@ -16,7 +16,7 @@ export default function ArtTipsPage(){
         <Container maxWidth="xl">
           <Grid container spacing={5}>
             <Grid item xl={12} lg={12} md={12} sm={12}>
-              <p>Tweets with useful art tips and tools</p>
+              <p>Tweets with useful tips and tools for art and animation</p>
             </Grid>
             <Grid item xl={4} lg={4} md={6} sm={12}>
               <Tweet

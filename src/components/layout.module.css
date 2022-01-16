@@ -11,9 +11,12 @@
   display: flex;
   list-style: none;
   padding-left: 0;
+  justify-content: center;
+  color: rgb(250, 127, 174);
 }
 .nav-link-item {
   padding-right: 2rem;
+  color: rgb(250, 127, 174);
 }
 .nav-link-text {
   color: rgb(250, 127, 174);

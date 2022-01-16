@@ -97,6 +97,30 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/_Cheumi/status/1481442259669114882"
                         />
                     </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1392992729680986114/7is-QPg9_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1392992729680986114/7is-QPg9_400x400.jpg"
+                            title="Jan 14, 2022"
+                            subheader="@arcasian"
+                            imageLink="https://pbs.twimg.com/media/FJF1SqlX0AI0axe?format=jpg&name=large"
+                            imageAlt="Burger"
+                            imageDescription="burg"
+                            tweetLink="https://twitter.com/arcasian/status/1482094719094206469"
+                        />
+                    </Grid>
+                    <Grid item xl={4} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1249995341342150661/_zWzUB___400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1249995341342150661/_zWzUB___400x400.jpg"
+                            title="Nov 30, 2021"
+                            subheader="@Sibylline_M"
+                            imageLink="https://pbs.twimg.com/media/FFdpL1UXIAIsJX0?format=jpg&name=large"
+                            imageAlt="Celestial Guardians"
+                            imageDescription="My Celestial Guardians series is complete 😌✨"
+                            tweetLink="https://twitter.com/Sibylline_M/status/1465755882227126274"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>    
