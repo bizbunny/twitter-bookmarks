@@ -4,9 +4,11 @@ import { Link } from 'gatsby';
 import Box from '@mui/material/Box';
 import Drawer from '@mui/material/Drawer';
 import List from '@mui/material/List';
-import Divider from '@mui/material/Divider';
+//import Divider from '@mui/material/Divider';
 import ListItem from '@mui/material/ListItem';
 import ListItemText from '@mui/material/ListItemText';
+
+// used collapsable drawer for part of layout : https://mui.com/components/drawers/
 
 import {
     container,
@@ -23,7 +25,7 @@ import {
 } from "@mui/material"
 
 export default function Layout({ pageTitle, children }){
-  const categories = ['ACNH', 'Art Tips', 'Coding', 'Commissions','Cooking', 'Cool Art','Crafts','Food Pics', 'Frogs','Fun Tweets', 'Games', 'Marvel', 'Products I like'];
+  const categories = ['ACNH', 'Art Tips', 'Coding', 'Commissions','Cooking', 'Cool Art','Crafts','Food Pics', 'Frogs','Fun Tweets', 'Games', 'Marvel', 'Miitopia','Products I like'];
   const [state, setState] = React.useState({
     right: false,
   });
@@ -82,7 +84,10 @@ export default function Layout({ pageTitle, children }){
         <Link to="/marvel" className={navLinkText}><ListItemText primary={categories[11]} /></Link>
         </ListItem>
         <ListItem button key={categories[12]}>
-        <Link to="/products" className={navLinkText}><ListItemText primary={categories[12]} /></Link>
+        <Link to="/miitopia" className={navLinkText}><ListItemText primary={categories[12]} /></Link>
+        </ListItem>
+        <ListItem button key={categories[13]}>
+        <Link to="/products" className={navLinkText}><ListItemText primary={categories[13]} /></Link>
         </ListItem>
       </List>
       {/* <List>
