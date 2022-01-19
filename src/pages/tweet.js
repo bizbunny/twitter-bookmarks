@@ -57,7 +57,7 @@ export default function Tweet({backgroundImageURL, srcImage, title, subheader, i
         }
         action={
           <IconButton aria-label="settings">
-            <MoreVertIcon />
+            {/* <MoreVertIcon /> */}
           </IconButton>
         }
         title={title}

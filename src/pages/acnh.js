@@ -118,6 +118,36 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/Clairetonic/status/1465055676707786765"
                         />
                     </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1267140053274374152/EUwmoaQl_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1267140053274374152/EUwmoaQl_400x400.jpg"
+                            title="Jan 16, 2022"
+                            subheader="@olguioo"
+                            imageLink="https://pbs.twimg.com/media/FJPSJFtX0AIj5JA?format=jpg&name=4096x4096"
+                            imageAlt="acnh"
+                            imageDescription="🌱✨
+                            "
+                            tweetLink="https://twitter.com/olguioo/status/1482759758432161797"
+                        />
+                    </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1479275497209176071/uFR1Nq7G_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1479275497209176071/uFR1Nq7G_400x400.jpg"
+                            title="Jan 15, 2022"
+                            subheader="@_littlejeka"
+                            imageLink="https://pbs.twimg.com/media/FJLhHSGWQAAxbB0?format=jpg&name=small"
+                            imageAlt="acnh"
+                            imageDescription="Codes to my hobbitcore island 🌱🌳
+
+                            -----
+                            #acnh #AnimalCrossing
+                            #AnimalCrossingNewHorizions
+                            "
+                            tweetLink="https://twitter.com/_littlejeka/status/1482494762003353600"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>

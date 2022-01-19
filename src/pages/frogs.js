@@ -57,6 +57,18 @@ export default function FrogsPage(){
                             tweetLink="https://twitter.com/charlieehoney_/status/1472868851692052482"
                         />
                     </Grid>  
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1476447592535900161/cFvPBq2H_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1476447592535900161/cFvPBq2H_400x400.jpg"
+                            title="Jan 16, 2022"
+                            subheader="@munespice"
+                            imageLink="https://pbs.twimg.com/media/FJPnameUcAMwQ4l?format=jpg&name=large"
+                            imageAlt="Frog"
+                            imageDescription="Gardening day 🌱✨"
+                            tweetLink="https://twitter.com/munespice/status/1482783149738237956"
+                        />
+                    </Grid>  
                 </Grid>
             </Container>
         </section>
