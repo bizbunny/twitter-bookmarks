@@ -1,7 +1,7 @@
 import * as React from "react"
 import "../components/styles.css";
 import Layout from '../components/layout'
-import Tweet from './Tweet'
+import Tweet from './tweet'
 
 import {
     Container,

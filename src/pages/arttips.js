@@ -1,7 +1,7 @@
 import * as React from "react"
 import "../components/styles.css";
 import Layout from '../components/layout'
-import Tweet from './Tweet'
+import Tweet from './tweet'
 
 import {
   Container,
@@ -70,7 +70,7 @@ export default function ArtTipsPage(){
                   "
                   tweetLink="https://twitter.com/olguioo/status/1464655309251792908"
               />
-  </Grid>
+            </Grid>
           </Grid>
         </Container>
       </section>

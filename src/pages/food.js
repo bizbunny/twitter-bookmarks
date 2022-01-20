@@ -37,8 +37,8 @@ export default function FoodPage(){
                             title="Jan 19, 2022"
                             subheader="@daily_dolce"
                             imageLink="https://pbs.twimg.com/media/FJe_8LdWQAA8KTF?format=jpg&name=medium"
-                            imageAlt="Cute Food"
-                            imageDescription=""
+                            imageAlt="Miffy Food"
+                            imageDescription="Miffy desserts by ske.f"
                             tweetLink="https://twitter.com/daily_dolce/status/1483865664137875464"
                         />
                     </Grid>  
