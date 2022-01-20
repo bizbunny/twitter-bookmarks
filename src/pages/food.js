@@ -1,7 +1,7 @@
 import * as React from "react"
 import "../components/styles.css";
 import Layout from '../components/layout'
-import Tweet from './Tweet'
+import Tweet from './tweet'
 
 import {
     Container,
@@ -29,7 +29,31 @@ export default function FoodPage(){
                             imageDescription=""
                             tweetLink="https://twitter.com/daily_dolce/status/1472233714042040331"
                         />
-                    </Grid> 
+                    </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1335590706979745794/su_529LP_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1335590706979745794/su_529LP_400x400.jpg"
+                            title="Jan 19, 2022"
+                            subheader="@daily_dolce"
+                            imageLink="https://pbs.twimg.com/media/FJe_8LdWQAA8KTF?format=jpg&name=medium"
+                            imageAlt="Cute Food"
+                            imageDescription=""
+                            tweetLink="https://twitter.com/daily_dolce/status/1483865664137875464"
+                        />
+                    </Grid>  
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1478021881475260422/nLd4Nn35_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1478021881475260422/nLd4Nn35_400x400.jpg"
+                            title="Jan 18, 2022"
+                            subheader="@rainbow_explode"
+                            imageLink="https://pbs.twimg.com/media/FJZaOxCXMAcR2VU?format=jpg&name=900x900"
+                            imageAlt="Cute Food"
+                            imageDescription="strawberry sandwiches ! 🍓🌿🍞🌸"
+                            tweetLink="https://twitter.com/rainbow_explode/status/1483472352847572993"
+                        />
+                    </Grid>  
                 </Grid>
             </Container>
         </section>
