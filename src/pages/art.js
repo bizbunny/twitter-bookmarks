@@ -111,6 +111,18 @@ export default function ArtsPage(){
                     </Grid>
                     <Grid item xl={3} lg={4} md={6} sm={12}>
                         <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1392992729680986114/7is-QPg9_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1392992729680986114/7is-QPg9_400x400.jpg"
+                            title="Jan 16, 2022"
+                            subheader="@arcasian"
+                            imageLink="https://pbs.twimg.com/media/FJQ2haEXwAI7YHc?format=jpg&name=4096x4096"
+                            imageAlt="Milk"
+                            imageDescription="warm oat milk for these trying times"
+                            tweetLink="https://twitter.com/arcasian/status/1482870227608215557"
+                        />
+                    </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1249995341342150661/_zWzUB___400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1249995341342150661/_zWzUB___400x400.jpg"
                             title="Nov 30, 2021"

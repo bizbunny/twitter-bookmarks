@@ -16,7 +16,7 @@ export default function ArtTipsPage(){
         <Container maxWidth="xl">
           <Grid container spacing={5}>
             <Grid item xl={12} lg={12} md={12} sm={12}>
-              <p>Tweets with useful tips and tools for art and animation</p>
+              <p>Tweets with useful tips for art and animation</p>
             </Grid>
             <Grid item xl={3} lg={4} md={6} sm={12}>
               <Tweet
@@ -56,21 +56,7 @@ export default function ArtTipsPage(){
                   tweetLink="https://twitter.com/EtheringtonBros/status/1470821656125972481"
               />
             </Grid>
-            <Grid item xl={3} lg={4} md={6} sm={12}>
-              <Tweet
-                  backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1267140053274374152/EUwmoaQl_400x400.jpg)`}
-                  srcImage="https://pbs.twimg.com/profile_images/1267140053274374152/EUwmoaQl_400x400.jpg"
-                  title="Nov 27, 2021"
-                  subheader="@olguioo"
-                  imageLink="https://pbs.twimg.com/media/FFOAPbrXEAIz2LX?format=jpg&name=large"
-                  imageAlt="Procreate"
-                  imageDescription="My most used digital art tools! ✏️✨
-                  Find my Brush Packs VOL 1, 2 & 3 here:
-                  http://gumroad.com/olguioo
-                  "
-                  tweetLink="https://twitter.com/olguioo/status/1464655309251792908"
-              />
-            </Grid>
+            
           </Grid>
         </Container>
       </section>

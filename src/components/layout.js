@@ -25,7 +25,7 @@ import {
 } from "@mui/material"
 
 export default function Layout({ pageTitle, children }){
-  const categories = ['ACNH', 'Art Tips', 'Coding', 'Commissions','Cooking', 'Cool Art','Crafts','Food Pics', 'Frogs','Fun Tweets', 'Games', 'Marvel', 'Miitopia','Products I like'];
+  const categories = ['ACNH', 'Art Tips', 'Coding', 'Commissions','Cooking', 'Cool Art','Crafts','Food Pics', 'Frogs','Fun Tweets', 'Games', 'Marvel', 'Miitopia','Products I like', 'Tools for Art or Game Making'];
   const [state, setState] = React.useState({
     right: false,
   });
@@ -88,6 +88,9 @@ export default function Layout({ pageTitle, children }){
         </ListItem>
         <ListItem button key={categories[13]}>
         <Link to="/products" className={navLinkText}><ListItemText primary={categories[13]} /></Link>
+        </ListItem>
+        <ListItem button key={categories[13]}>
+        <Link to="/tools" className={navLinkText}><ListItemText primary={categories[14]} /></Link>
         </ListItem>
       </List>
       {/* <List>
