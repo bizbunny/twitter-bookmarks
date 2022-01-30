@@ -148,6 +148,20 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/_littlejeka/status/1482494762003353600"
                         />
                     </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1386763365620486145/qn9Le3rd_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1386763365620486145/qn9Le3rd_400x400.jpg"
+                            title="Jan 27, 2022"
+                            subheader="@pogpals"
+                            imageLink="https://pbs.twimg.com/media/FKIL60lWUAg-H_J?format=jpg&name=large"
+                            imageAlt="acnh"
+                            imageDescription="Billy’s Pottery Workshop! 
+                            #HappyHomeParadise #acnh
+                            "
+                            tweetLink="https://twitter.com/pogpals/status/1486763934430470144"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>
