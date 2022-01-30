@@ -60,6 +60,18 @@ export default function GamesPage(){
                             tweetLink="https://twitter.com/_wholesomegames/status/1483071978051416071"
                         />
                     </Grid> 
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1121768172883980290/dFznjT7M_400x400.png)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1121768172883980290/dFznjT7M_400x400.png"
+                            title="Jan 29, 2022"
+                            subheader="@_wholesomegames"
+                            imageLink="https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CosmicExpress_DraknekFriends_S3_2560x1440-963308d54c9d313e1321401f0e4f2bac"
+                            imageAlt="Cosmic Express"
+                            imageDescription="Cosmic Express is a puzzle game about planning the train route for a little space colony with cute aliens. It's now available on #NintendoSwitch in addition to PC and mobile!"
+                            tweetLink="https://twitter.com/_wholesomegames/status/1487482333871718405"
+                        />
+                    </Grid> 
                 </Grid>
             </Container>
         </section>
