@@ -37,13 +37,29 @@ export default function CodePage(){
                             backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1436372553027788801/-omdgx8X_400x400.jpg)`}
                             srcImage="https://pbs.twimg.com/profile_images/1436372553027788801/-omdgx8X_400x400.jpg"
                             title="Aug 19, 2021"
-                            subheader="@@UbahTheBuilder"
+                            subheader="@UbahTheBuilder"
                             imageLink="https://pbs.twimg.com/media/E9KGqtlUYBUmTDv?format=png&name=900x900"
                             imageAlt="JS"
                             imageDescription="7 ES6 features all JavaScript Programmers should learn to use.
 
                             A visual thread 🧵"
                             tweetLink="https://twitter.com/UbahTheBuilder/status/1428356548615491595"
+                        />
+                    </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1276770212927410176/qTgTIejk_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1276770212927410176/qTgTIejk_400x400.jpg"
+                            title="Jan 30, 2022"
+                            subheader="@freeCodeCamp"
+                            imageLink="https://pbs.twimg.com/card_img/1486087886810521601/k1TcG3JL?format=jpg&name=small"
+                            imageAlt="Recursion"
+                            imageDescription="Recursion is a fundamental computer science concept that's notoriously hard to grasp. 
+
+                            But this course explains it with simple analogies. 
+                            
+                            You'll learn about call stacks, the Fibonacci Sequence, linked lists, trees, graphs, search algorithms, and more."
+                            tweetLink="https://twitter.com/freeCodeCamp/status/1487818139874308096"
                         />
                     </Grid> 
                 </Grid>
