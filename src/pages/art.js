@@ -145,6 +145,7 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/zephybite/status/1477752044723195907"
                         />
                     </Grid>
+                    
                 </Grid>
             </Container>
         </section>    
