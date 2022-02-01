@@ -162,6 +162,20 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/pogpals/status/1486763934430470144"
                         />
                     </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1435440908766355461/o92acG6Z_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1435440908766355461/o92acG6Z_400x400.jpg"
+                            title="Nov 25, 2021"
+                            subheader="@peachbunnii"
+                            imageLink="https://pbs.twimg.com/media/FFGJJxvVIAAqGi1?format=jpg&name=medium"
+                            imageAlt="acnh"
+                            imageDescription="this took me 4 hours 😂💦
+                            #acnh #bunnie
+                            "
+                            tweetLink="https://twitter.com/peachbunnii/status/1464102159352352778"
+                        />
+                    </Grid> 
                 </Grid>
             </Container>
         </section>
