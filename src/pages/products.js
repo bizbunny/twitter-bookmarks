@@ -104,6 +104,18 @@ export default function ProductsPage(){
                   tweetLink="https://twitter.com/ohmonah/status/1402385399155245056"
                 />
               </Grid>
+              <Grid item xl={3} lg={4} md={6} sm={12}>
+                <Tweet
+                  backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1260693095617835017/UjR09Qjo_400x400.png)`}
+                  srcImage="https://pbs.twimg.com/profile_images/1260693095617835017/UjR09Qjo_400x400.png"
+                  title="Jun 25, 2021"
+                  subheader="@maobabie"
+                  imageLink="https://pbs.twimg.com/media/FJZem6AXIAgDcIH?format=jpg&name=4096x4096"
+                  imageAlt="cute plushie"
+                  imageDescription="im going to put these on the store on thursday!! <3"
+                  tweetLink="https://twitter.com/maobabie/status/1486051121781161986"
+                />
+              </Grid>
             </Grid>
           </Container>
         </section>

@@ -145,7 +145,18 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/zephybite/status/1477752044723195907"
                         />
                     </Grid>
-                    
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1455255834783621122/E8nmlSUy_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1455255834783621122/E8nmlSUy_400x400.jpg"
+                            title="Nov 27, 2021"
+                            subheader="@katriadoodles"
+                            imageLink="https://pbs.twimg.com/media/FFNIwgKXEAAlZaE?format=jpg&name=large"
+                            imageAlt="Promotion"
+                            imageDescription="Inprnt is offering 15% off everything, all weekend long, so if you’re looking for some cool wall decor now’s the time!"
+                            tweetLink="https://twitter.com/katriadoodles/status/1464594308233846788"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>    

@@ -54,6 +54,18 @@ export default function FoodPage(){
                             tweetLink="https://twitter.com/rainbow_explode/status/1483472352847572993"
                         />
                     </Grid>  
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1335590706979745794/su_529LP_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1335590706979745794/su_529LP_400x400.jpg"
+                            title="Jan 30, 2022"
+                            subheader="@daily_dolce"
+                            imageLink="https://pbs.twimg.com/media/FKXLDznWQAIsJAC?format=png&name=small"
+                            imageAlt="Strawberry Bears"
+                            imageDescription="Strawberry and bear bread by satomi_0819"
+                            tweetLink="https://twitter.com/daily_dolce/status/1487818539734126595"
+                        />
+                    </Grid>  
                 </Grid>
             </Container>
         </section>
