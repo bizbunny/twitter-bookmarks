@@ -72,6 +72,31 @@ export default function GamesPage(){
                             tweetLink="https://twitter.com/_wholesomegames/status/1487482333871718405"
                         />
                     </Grid> 
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/978607790762553344/LXzOygUe_400x400.png)`}
+                            srcImage="https://pbs.twimg.com/profile_images/978607790762553344/LXzOygUe_400x400.png"
+                            title="Mar 21, 2022"
+                            subheader="@npckc"
+                            imageLink="https://img.itch.zone/aW1hZ2UvMTQxMDE5NC84MjE1NzUyLnBuZw==/original/qwqcq5.png"
+                            imageAlt="casting hearts"
+                            imageDescription="🔮 casting hearts
+                            a long-distance visual novel about magic, anxiety, and connection featuring
+                            - you, a witch with anxiety issues
+                            - your girlfriend (also a witch)
+                            - a date with your witch girlfriend
+                            
+                            get it now from 
+                            @tinygamesbundle
+                            ! 
+                            
+                            ✨ https://npckc.itch.io/casting-hearts
+                            
+                            
+                            #tinygamesbundle"
+                            tweetLink="https://twitter.com/npckc/status/1505954892690583552"
+                        />
+                    </Grid> 
                 </Grid>
             </Container>
         </section>

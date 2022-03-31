@@ -157,6 +157,18 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/katriadoodles/status/1464594308233846788"
                         />
                     </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1254882558476578817/fVG-_dX0_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1254882558476578817/fVG-_dX0_400x400.jpg"
+                            title="Mar 17, 2022"
+                            subheader="@rdauterman"
+                            imageLink="https://pbs.twimg.com/media/FODuIdwVgAUsZFs?format=jpg&name=large"
+                            imageAlt="Hellfire Gala 2022"
+                            imageDescription="HELLFIRE GALA 2022 ❌✨ MOON KNIGHT #12 variant cover, drawn and colored by me — ft. my new design for the Scarlet Witch! #XMenHellfireGala #ScarletWitch"
+                            tweetLink="https://twitter.com/rdauterman/status/1504464375112896513"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>    
