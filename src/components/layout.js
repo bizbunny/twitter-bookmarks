@@ -119,7 +119,7 @@ export default function Layout({ pageTitle, children }){
                     <div >
                       {['right'].map((anchor) => (
                         <React.Fragment key={anchor}>
-                          <Button onClick={toggleDrawer(anchor, true)} className={navLinkText}>Categories</Button>
+                          <Button onClick={toggleDrawer(anchor, true)} variant="text" className={navLinkText}>Categories</Button>
                           <Drawer
                             anchor={anchor}
                             open={state[anchor]}

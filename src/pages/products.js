@@ -116,6 +116,21 @@ export default function ProductsPage(){
                   tweetLink="https://twitter.com/maobabie/status/1486051121781161986"
                 />
               </Grid>
+              <Grid item xl={3} lg={4} md={6} sm={12}>
+                <Tweet
+                  backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1437939795737645060/GzccObe9_400x400.jpg)`}
+                  srcImage="https://pbs.twimg.com/profile_images/1437939795737645060/GzccObe9_400x400.jpg"
+                  title="Mar 22, 2022"
+                  subheader="@carmiico"
+                  imageLink="https://pbs.twimg.com/media/FOfB3xdXwAMhMpu?format=jpg&name=small"
+                  imageAlt="cute hats"
+                  imageDescription="Pumpkin Berets 
+
+                  The final samples are here!! They look wonderful, and are good to go! I'll likely save a preorder for them for a little later on, I was thinking some time in June, with September fulfilment, so they’d arrive in October for spooky season!"
+                  tweetLink="https://twitter.com/carmiico/status/1506387180104601608"
+                />
+              </Grid>
+
             </Grid>
           </Container>
         </section>
