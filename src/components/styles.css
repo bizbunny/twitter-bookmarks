@@ -5,6 +5,7 @@
     width: 100%;
   }
 Button, .tweetCard{
-  background-color: rgb(250, 127, 174);
+  /*background-color: rgb(250, 127, 174);*/
+  background-color: #1976d2;
   text-transform: uppercase;
 }
