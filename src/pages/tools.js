@@ -65,6 +65,20 @@ export default function GameMakingOrArtToolsPage(){
                             tweetLink="https://twitter.com/olguioo/status/1463938896614637579"
                         />
                     </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1503267684359626752/O-1_aHe6_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1503267684359626752/O-1_aHe6_400x400.jpg"
+                            title="Mar 14, 2022"
+                            subheader="@ethan_pptart"
+                            imageLink="https://pbs.twimg.com/media/FNzK7nHUcAAf9x5?format=jpg&name=4096x4096"
+                            imageAlt="Fonts!"
+                            imageDescription="Creative font faves — free for personal use
+
+                            a thread;"
+                            tweetLink="https://twitter.com/ethan_pptart/status/1503300869512597507"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>
