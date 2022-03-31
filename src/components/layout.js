@@ -89,7 +89,7 @@ export default function Layout({ pageTitle, children }){
         <ListItem button key={categories[13]}>
         <Link to="/products" className={navLinkText}><ListItemText primary={categories[13]} /></Link>
         </ListItem>
-        <ListItem button key={categories[13]}>
+        <ListItem button key={categories[14]}>
         <Link to="/tools" className={navLinkText}><ListItemText primary={categories[14]} /></Link>
         </ListItem>
       </List>

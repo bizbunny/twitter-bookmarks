@@ -5,7 +5,8 @@
     /*background-color: pink;*/
 }
 .heading {
-    color: rgb(250, 127, 174);
+    /*color: rgb(250, 127, 174);*/
+    color: #1976d2;
 }
 .nav-links {
   position: sticky;
@@ -13,15 +14,18 @@
   list-style: none;
   padding-left: 0;
   justify-content: center;
-  color: rgb(250, 127, 174);
+  /*color: rgb(250, 127, 174);*/
+  color:#1976d2;
 }
 .nav-link-item {
   padding-right: 2rem;
-  color: rgb(250, 127, 174);
+  /*color: rgb(250, 127, 174);*/
+  color:#1976d2;
 }
 .nav-link-text {
-  color: rgb(250, 127, 174);
+  /*color: rgb(250, 127, 174);*/
+  color:#1976d2;
   text-decoration-line: none;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
