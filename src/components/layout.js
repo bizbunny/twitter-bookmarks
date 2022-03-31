@@ -114,9 +114,9 @@ export default function Layout({ pageTitle, children }){
               <nav>
               
                 <ul className={navLinks}>
-                    <li className={navLinkItem}><Button variant="text"><Link to="/" className={navLinkText}>Home</Link></Button></li>
                     <li className={navLinkItem}>
-                    <div >
+                      <Button variant="text"><Link to="/" className={navLinkText}>Home</Link></Button></li>
+                    <li className={navLinkItem}>
                       {['right'].map((anchor) => (
                         <React.Fragment key={anchor}>
                           <Button onClick={toggleDrawer(anchor, true)} variant="text" className={navLinkText}>Categories</Button>
@@ -129,7 +129,6 @@ export default function Layout({ pageTitle, children }){
                           </Drawer>
                         </React.Fragment>
                       ))}
-                    </div>
                     </li>
                 </ul>
               </nav>
