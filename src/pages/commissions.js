@@ -51,6 +51,23 @@ export default function CommissionsPage(){
                             tweetLink="https://twitter.com/Adonyne/status/1398310904475881478"
                         />
                     </Grid> 
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1510683582926397444/Yc28ZHzT_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1510683582926397444/Yc28ZHzT_400x400.jpg"
+                            title="Apr 2, 2022"
+                            subheader="@puzzlelockcms"
+                            imageLink="https://pbs.twimg.com/media/FPYnddXXsAQUNW6?format=png&name=900x900"
+                            imageAlt="Commissions"
+                            imageDescription="【 commissions are open 】
+                            rts are appreciated. purchase here:
+                            https://ko-fi.com/puzzlelock
+                            
+                            
+                            thank you so much!"
+                            tweetLink="https://twitter.com/puzzlelockcms/status/1510438179144355843"
+                        />
+                    </Grid> 
                 </Grid>
             </Container>
         </section>

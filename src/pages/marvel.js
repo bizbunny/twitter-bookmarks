@@ -56,6 +56,23 @@ export default function MarvelPage(){
                             tweetLink="https://twitter.com/DAlSHCU/status/1472777086993670145"
                         />
                     </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1281081665012609025/br884HDX_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1281081665012609025/br884HDX_400x400.jpg"
+                            title="Oct 5, 2019"
+                            subheader="@WeldonArt"
+                            imageLink="https://pbs.twimg.com/media/EGI9JeLX0AApsGM?format=jpg&name=4096x4096"
+                            imageAlt="Toad"
+                            imageDescription="Here's my offering for INKTOADBER 2019! Enjoy! See you next year :D #ink #toad #xmen #marvel #comics #MarvelNYCC #october #october2019 #halloween #Halloween2019 
+                            @Marvel
+                             
+                            @MarvelStudios
+                             #NYCC #Nycc2019 #Inktober #inktober2019 
+                            @IAMRayPark"
+                            tweetLink="https://twitter.com/WeldonArt/status/1180573293457350656"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>

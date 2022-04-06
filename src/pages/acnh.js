@@ -176,6 +176,19 @@ export default function AcnhPage(){
                             tweetLink="https://twitter.com/peachbunnii/status/1464102159352352778"
                         />
                     </Grid> 
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1481028496960884737/0TV2hqEf_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1481028496960884737/0TV2hqEf_400x400.jpg"
+                            title="Nov 18, 2021"
+                            subheader="@animalcrossing"
+                            imageLink="https://pbs.twimg.com/media/FEfHjusVgAUTwuF?format=jpg&name=large"
+                            imageAlt="acnh Lottie"
+                            imageDescription="[Lottie]
+                            Lottie here again! Let's talk partitions, shall we? You can use them to make one room feel like multiple rooms! So you could have more than one theme or vibe going at the same time for when you're in different moods... Ooh, I'm giving myself ideas!"
+                            tweetLink="https://twitter.com/animalcrossing/status/1461356035440971785"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>

@@ -169,6 +169,30 @@ export default function ArtsPage(){
                             tweetLink="https://twitter.com/rdauterman/status/1504464375112896513"
                         />
                     </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1443299231184261120/IgeAPsG5_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1443299231184261120/IgeAPsG5_400x400.jpg"
+                            title="Mar 16, 2019"
+                            subheader="@ichi_nese"
+                            imageLink="https://pbs.twimg.com/media/D10f-ecU4AAujLe?format=jpg&name=large"
+                            imageAlt="bread animals"
+                            imageDescription="Collection of bread animals"
+                            tweetLink="https://twitter.com/ichi_nese/status/1107076248495284225"
+                        />
+                    </Grid>
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1503420227899469827/iE3bb22j_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1503420227899469827/iE3bb22j_400x400.jpg"
+                            title="Aug 20, 2018"
+                            subheader="@alexmchiu"
+                            imageLink="https://pbs.twimg.com/media/DlEt0Q6U0AA7Xuh?format=jpg&name=medium"
+                            imageAlt="portfolio"
+                            imageDescription="Hi I'm Alex and I'm currently working as a storyboard artist at Nickelodeon's Glitch Techs! I love to cute things and aCTION!!  And I love my characters and Overwatch :D! #VisibleWomen"
+                            tweetLink="https://twitter.com/alexmchiu/status/1031657365102186496"
+                        />
+                    </Grid>
                 </Grid>
             </Container>
         </section>    

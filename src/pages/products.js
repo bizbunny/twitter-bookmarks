@@ -130,7 +130,21 @@ export default function ProductsPage(){
                   tweetLink="https://twitter.com/carmiico/status/1506387180104601608"
                 />
               </Grid>
+              <Grid item xl={3} lg={4} md={6} sm={12}>
+                <Tweet
+                  backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1476611165157355521/-lvlmsRT_400x400.jpg)`}
+                  srcImage="https://pbs.twimg.com/profile_images/1476611165157355521/-lvlmsRT_400x400.jpg"
+                  title="Apr 5, 2022"
+                  subheader="@hellokitty"
+                  imageLink="https://pbs.twimg.com/media/FPl54hVWYAwHfLW?format=jpg&name=medium"
+                  imageAlt="monopoly"
+                  imageDescription="Introducing MONOPOLY®: Hello Kitty and Friends Edition 🎀 🎲 Win or lose, you're sure to have a super sweet time as you explore this supercute version of the classic board game. 
 
+                  Shop now: https://bit.ly/3j5R7DU
+                  "
+                  tweetLink="https://twitter.com/hellokitty/status/1511373172892909578"
+                />
+              </Grid>
             </Grid>
           </Container>
         </section>

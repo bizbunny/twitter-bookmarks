@@ -47,6 +47,21 @@ export default function FunTweetsPage(){
                             tweetLink="https://twitter.com/MaartjeME/status/1452592022515326980"
                         />
                     </Grid> 
+                    <Grid item xl={3} lg={4} md={6} sm={12}>
+                        <Tweet
+                            backgroundImageURL={`url(https://pbs.twimg.com/profile_images/1510288033211420678/13P4dIrN_400x400.jpg)`}
+                            srcImage="https://pbs.twimg.com/profile_images/1510288033211420678/13P4dIrN_400x400.jpg"
+                            title="Feb 12, 2022"
+                            subheader="@FintanYTWalsh"
+                            imageLink="https://pbs.twimg.com/media/FLZOn4tWQAE2VlF?format=jpg&name=medium"
+                            imageAlt="Worldle"
+                            imageDescription="I present you Worldle. You’re given a map of a country/territory. If you get it wrong, it will tell you how close you are and give you the direction and distance from the right answer 🗺 
+
+                            https://worldle.teuteuf.fr
+                            "
+                            tweetLink="https://twitter.com/FintanYTWalsh/status/1492466778370453510"
+                        />
+                    </Grid> 
                 </Grid>
             </Container>
         </section>
