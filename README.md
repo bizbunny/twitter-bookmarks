@@ -2,6 +2,7 @@
 <h1 align="center">
   Twitter Lists
 </h1>
+<h3>A bunch of lists in no particular order I have on twitter</h3>
 
 ## Favorite Artist List1
 
@@ -55,40 +56,40 @@
 48.   @vilinh27
 49.   @ricecorpse
 50.   @DavidNakayama
-@blushsprout
-@lushiette            
-@mg3kiryu
-@Cyarine
-@NiniWanted
-@Cuttlesworth
-@mongrelmarie
-@hamiyyun
-@nellucnhoj
-@refrainbow
-@leikya_
-@maobabie
-@ZanofArc
-@JuliaLepetit
-@chocolettchoo
-@clammyheart
-@npckc
-@stefscribbles
-@FLoaBComic
-@rainylune
-@JeanaDraws
-@rdauterman
-@Elinasart
-@Chiroyoyoyoyoyo
-@arcasian
-@ELIOLIart
-@ohmonah
-@used_bandaid
-@ciaraturnerart
-@NoeArtS
-@cyanwhisky
-@nekomori_art
-@bobjinx
-@BreeLundberg
+51.   @blushsprout
+52.   @lushiette            
+53.   @mg3kiryu
+54.   @Cyarine
+55.   @NiniWanted
+56.   @Cuttlesworth
+57.   @mongrelmarie
+58.   @hamiyyun
+59.   @nellucnhoj
+60.   @refrainbow
+61.   @leikya_
+62.   @maobabie
+63.   @ZanofArc
+64.   @JuliaLepetit
+65.   @chocolettchoo
+66.   @clammyheart
+67.   @npckc
+68.   @stefscribbles
+69.   @FLoaBComic
+70.   @rainylune
+71.   @JeanaDraws
+72.   @rdauterman
+73.   @Elinasart
+74.   @Chiroyoyoyoyoyo
+75.   @arcasian
+76.   @ELIOLIart
+77.   @ohmonah
+78.   @used_bandaid
+79.   @ciaraturnerart
+80.   @NoeArtS
+81.   @cyanwhisky
+82.   @nekomori_art
+83.   @bobjinx
+84.   @BreeLundberg
 
 ## Favorite Artist List2
-@applecheeks
+1.   @applecheeks
