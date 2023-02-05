@@ -43,8 +43,8 @@
 36.   @rourouki
 37.   @carmiico
 38.   @afternoonfika
-39.    @peachbunnii
-@nya_Deko
+39.   @peachbunnii
+40.   @nya_Deko
 @dilfosaur
 @peachmomoko60
 @floofyfluff
