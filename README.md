@@ -6,11 +6,10 @@
 ## Favorite Artist List1
 
 1.   @Chunnyeol
-
-     @Chunn_schedule
-     @rainbloomshop
-     @cheebpaku
-     @fishballishere
+2.   @Chunn_schedule
+3.   @rainbloomshop
+4    @cheebpaku
+5.   @fishballishere
 @LilMelon_
 @a_kaeyada
 @beaniewinnie96
