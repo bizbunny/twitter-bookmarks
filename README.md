@@ -1,54 +1,95 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
+
 <h1 align="center">
-  Gatsby minimal starter
+  Twitter Lists
 </h1>
 
-## 🚀 Quick start
+## Favorite Artist List1
 
-1.  **Create a Gatsby site.**
+1.   @Chunnyeol
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+     @Chunn_schedule
+     @rainbloomshop
+     @cheebpaku
+     @fishballishere
+@LilMelon_
+@a_kaeyada
+@beaniewinnie96
+@onicakeco
+@art_of_emfitz
+@munespice
+@winchestermegg
+@Ash_Bash202
+@eggumu
+@skyevoidscreams
+@pogpals
+@duluduludesign
+@Adejwithblood
+@jisoupy
+@meganroseruiz
+@feefal_
+@ArtCitiJF
+@ArtByBai
+@floatyskye
+@crowlines
+@rainy_mint
+@Giraffaloops
+@m_askr1233
+@enzumeii
+@FUJIBEEShop
+@komomorebi
+@jellyfrill
+@misu_025
+@itskleine
+@liliuhms
+@rourouki
+@carmiico
+@afternoonfika
+@peachbunnii
+@nya_Deko
+@dilfosaur
+@peachmomoko60
+@floofyfluff
+@zephybite
+@Mahoukarp
+@atinyplant
+@lauraillustrate
+@vilinh27
+@ricecorpse
+@DavidNakayama
+@blushsprout
+@lushiette            
+@mg3kiryu
+@Cyarine
+@NiniWanted
+@Cuttlesworth
+@mongrelmarie
+@hamiyyun
+@nellucnhoj
+@refrainbow
+@leikya_
+@maobabie
+@ZanofArc
+@JuliaLepetit
+@chocolettchoo
+@clammyheart
+@npckc
+@stefscribbles
+@FLoaBComic
+@rainylune
+@JeanaDraws
+@rdauterman
+@Elinasart
+@Chiroyoyoyoyoyo
+@arcasian
+@ELIOLIart
+@ohmonah
+@used_bandaid
+@ciaraturnerart
+@NoeArtS
+@cyanwhisky
+@nekomori_art
+@bobjinx
+@BreeLundberg
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
-
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
-
-3.  **Open the code and start customizing!**
-
-    Your site is now running at http://localhost:8000!
-
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+## Favorite Artist List2
+@applecheeks
