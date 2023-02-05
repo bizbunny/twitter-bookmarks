@@ -95,3 +95,21 @@
 1.   @tiffanytanart
 2.   @frogapples_
 3.   @cambrasine
+
+## Game News
+
+1.  @GenshinUpdate
+2.  @SaveYourPrimos
+3.  @toppingpalette
+4.  @AnnoMuta
+5.  @_wholesomegames
+6.  @GenshinImpact
+7.  @monsterprom
+8.  @NieRGame
+9.  @ooblets
+10.  @lumiinteractive
+11.  @Overcookedgame
+12.  @animalcrossing
+13.  @Fireproof_Games
+14.  @ACWorldBlog
+15.  @NintendoAmerica
