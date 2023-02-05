@@ -5,7 +5,6 @@
 <h3>A bunch of lists in no particular order I have on twitter</h3>
 
 ## Favorite Artist List1
-
 1.   @Chunnyeol
 2.   @Chunn_schedule
 3.   @rainbloomshop
@@ -97,7 +96,6 @@
 3.   @cambrasine
 
 ## Game News
-
 1.  @GenshinUpdate
 2.  @SaveYourPrimos
 3.  @toppingpalette
@@ -113,3 +111,11 @@
 13.  @Fireproof_Games
 14.  @ACWorldBlog
 15.  @NintendoAmerica
+
+## Fav Genshin Characters
+1.   @colleihourly
+2.   @ayatohour
+3.   @Ayato_Mains
+4.   @AyatoDailyyyyy
+5.   @DailyYae
+6.   @Childe_txt
