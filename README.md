@@ -92,4 +92,6 @@
 84.   @BreeLundberg
 
 ## Favorite Artist List2
-1.   @applecheeks
+1.   @tiffanytanart
+2.   @frogapples_
+3.   @cambrasine
